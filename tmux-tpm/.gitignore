@@ -1,0 +1,12 @@
+/tpm-config/*
+!/tpm-config/*/
+
+# Ignore binaries and intermediate files
+*.swp
+*.tmp
+*.o
+*.log
+*.bak
+*.bin
+*.out
+*.cache

@@ -1,5 +1,8 @@
 #!/bin/sh
 
+sudo apt update
+sudo apt install git
+
 # Check if the programs.txt file exists
 if [ ! -f "programs.txt" ]; then
   echo "Error: programs.txt file not found in the root directory."

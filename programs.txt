@@ -1,2 +1,7 @@
-foo
-baz
+zsh
+cpp-cmake-ninja
+node-npm
+python-pixi
+tmux-tpm
+ssh
+nvim
